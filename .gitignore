@@ -7,7 +7,7 @@ application/cache/*
 application/logs/*
 !application/logs/index.html
 
-!README.md
+README.md
 
 
 composer.lock
