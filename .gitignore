@@ -1,5 +1,5 @@
 .DS_Store
-!README.md
+README.md
 
 application/cache/*
 !application/cache/index.html
